@@ -1,0 +1,21 @@
+#prueba en casa
+Fotos/prueba.jpg:punto_inicial_superior_izquierda = (437687.66, 4471087.73) 
+    punto_inicial_superior_derecha = (438205.08, 4470929.27)
+
+#prueba con otro formato de imagen
+Fotos/pruebapng.png:punto_inicial_superior_izquierda = (40.38805556, -3.73416667) 
+punto_inicial_superior_derecha = (40.38666667, -3.72805556)    # Latitud, Longitud
+
+#coordenadas de la foto de INSIA
+Fotos/INSIA_TEST.png: punto_inicial_superior_izquierda = (446150.31, 4470837.22)
+                    punto_inicial_superior_derecha= (446551.34, 4470865.19)
+                    
+#coordenadas de la foto de la ETSISI
+Fotos/ETISI_TEST.png: punto_inicial_superior_izquierda = (446080.02, 4470899.4) 
+                     punto_inicial_superior_derecha = (447048.85, 4471200.84)
+
+
+
+
+
+
